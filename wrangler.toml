@@ -1,1 +1,8 @@
+name = "godia-prime-connects"
+main = "src/index.js"
+compatibility_date = "2026-10-12"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "godia-prime-connect-db"
+database_id = "ebec33b4-ba48-4acc-b53e-eb32753f5116"
